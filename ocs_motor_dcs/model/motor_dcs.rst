@@ -1,0 +1,1 @@
+The Motor Device Control System is a package used to interact with a Simulink motor simulation for demonstration purposes. 
